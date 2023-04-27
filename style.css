@@ -156,19 +156,39 @@ main {
     height: 289px;
     width: 270px;
     text-align: center;
+    font-weight: 400;
 }
 
 .main_chair2 {
+    display: flex;
     margin-top: 37px;
+    font-weight: 400;
+}
+
+.lampa {
+    background-color: white;
+    text-align: center;
 }
 
 .stol {
     background-color: #FAECE9;
     margin-left: 30px;
+    text-align: center;
+    height: 285px;
 }
 
 .img_right {
     position: absolute;
     margin-left: 600px;
     top: 893px;
+    width: 570px;
+    height: 614px;
+    background-color: white;
+    text-align: center;
+    font-weight: 400;
+}  
+
+.white_chocolate {
+    margin-top: 30px;
+    font-size: 20px;
 }
